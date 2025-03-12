@@ -40,7 +40,3 @@ git clone https://github.com/seu-usuario/estudos-java.git
 2. Navegue até a pasta `src` para ver os exemplos e códigos organizados por tópico.
 3. Caso deseje executar algum código, basta importar os arquivos no seu ambiente de desenvolvimento (IDE) de
    preferência (IntelliJ, Eclipse, etc.).
-
-## Licença
-
-Este repositório está licenciado sob a [Licença MIT](LICENSE).
